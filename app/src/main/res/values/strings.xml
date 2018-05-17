@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">FinalGeoFire</string>
+    <string name="title_activity_maps">Geofence</string>
+</resources>
